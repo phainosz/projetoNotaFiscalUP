@@ -8,7 +8,7 @@ Projeto de java da Universidade Positivo
 
 [Regras](https://github.com/phainosz/projetoNotaFiscalUP/blob/master/Calculo_Imposto_Simples.pdf)
 
-## O desenvolvimento das funcionalidades do sistema foram realizados pelos alunos:
+## Alunos que participaram do projeto:
 
 Vinícius Henrique Santos Araújo
 
