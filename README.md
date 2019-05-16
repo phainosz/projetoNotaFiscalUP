@@ -2,7 +2,13 @@
 
 Projeto de java da Universidade Positivo
 
-O desenvolvimento das funcionalidades do sistema foram realizados pelos alunos:
+## Requisitos do Projeto:
+
+[Modelo - UML](https://github.com/phainosz/projetoNotaFiscalUP/blob/master/Modelo_UML_Calculo_Imposto_Simples.png)
+
+[Regras](https://github.com/phainosz/projetoNotaFiscalUP/blob/master/Calculo_Imposto_Simples.pdf)
+
+## O desenvolvimento das funcionalidades do sistema foram realizados pelos alunos:
 
 Vinícius Henrique Santos Araújo
 
